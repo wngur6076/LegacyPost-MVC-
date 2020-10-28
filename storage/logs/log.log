@@ -1,0 +1,621 @@
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] count(): Parameter must be an array or an object that implements Countable in /Users/juhyeok/LegacyPost/app/lib/database.php on line 46
+[2] array_reduce() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 54
+[2] array_values() expects parameter 1 to be array, int given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] Only arrays and Traversables can be unpacked in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[8] Undefined index: username in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 126
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 55
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 57
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/juhyeok/LegacyPost/app/lib/database.php on line 63
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 67
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 66
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[2] hash_equals(): Expected user_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[2] hash_equals(): Expected user_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[2] hash_equals(): Expected user_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[2] hash_equals(): Expected user_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[2] hash_equals(): Expected user_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[2] hash_equals(): Expected user_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[2] hash_equals(): Expected user_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[2] hash_equals(): Expected user_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[2] hash_equals(): Expected user_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/auth.php on line 3
+[2] filter_input_array() expects parameter 1 to be int, array given in /Users/juhyeok/LegacyPost/app/controllers/user.php on line 18
+[8] Trying to access array offset on value of type null in /Users/juhyeok/LegacyPost/app/controllers/user.php on line 21
+[8] Undefined index: $password in /Users/juhyeok/LegacyPost/app/controllers/user.php on line 22
+[8] Undefined index: $email in /Users/juhyeok/LegacyPost/app/controllers/user.php on line 21
+[8] Undefined index: $password in /Users/juhyeok/LegacyPost/app/controllers/user.php on line 22
+[8] Undefined index: $email in /Users/juhyeok/LegacyPost/app/controllers/user.php on line 21
+[8] Undefined index: $password in /Users/juhyeok/LegacyPost/app/controllers/user.php on line 22
+[8] Trying to access array offset on value of type bool in /Users/juhyeok/LegacyPost/app/controllers/user.php on line 17
+[8] Trying to access array offset on value of type bool in /Users/juhyeok/LegacyPost/app/controllers/user.php on line 17
+[8] Undefined variable: createdAt in /Users/juhyeok/LegacyPost/resources/views/read.php on line 8
+[8] Undefined variable: createdAt in /Users/juhyeok/LegacyPost/resources/views/read.php on line 8
+[8] Undefined variable: createdAt in /Users/juhyeok/LegacyPost/resources/views/read.php on line 8
+[8] Undefined variable: createdAt in /Users/juhyeok/LegacyPost/resources/views/read.php on line 8
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[2] hash_equals(): Expected user_string to be a string, null given in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 76
+[8] Undefined index: CSRF_TOKEN in /Users/juhyeok/LegacyPost/resources/views/post.php on line 3
+[2] call_user_func() expects parameter 1 to be a valid callback, function 'destory' not found or invalid function name in /Users/juhyeok/LegacyPost/app/lib/functions.php on line 108
